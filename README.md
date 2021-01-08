@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/maxcodeshere/datenschiff-landingpage">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -128,7 +128,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/maxcodeshere/datenschiff-landingpage/issues) for a list of proposed features (and known issues).
 
 
 
@@ -181,15 +181,15 @@ Project Link: [https://github.com/maxcodeshere/datenschiff-landingpage](https://
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/maxcodeshere/datenschiff-landingpage.svg?style=for-the-badge
 [contributors-url]: https://github.com/maxcodeshere/datenschiff-landingpage/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/maxcodeshere/datenschiff-landingpage.svg?style=for-the-badge
 [forks-url]: https://github.com/maxcodeshere/datenschiff-landingpage/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/maxcodeshere/datenschiff-landingpage.svg?style=for-the-badge
 [stars-url]: https://github.com/maxcodeshere/datenschiff-landingpage/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/maxcodeshere/datenschiff-landingpage.svg?style=for-the-badge
 [issues-url]: https://github.com/maxcodeshere/datenschiff-landingpage/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/maxcodeshere/datenschiff-landingpage.svg?style=for-the-badge
 [license-url]: https://github.com/maxcodeshere/datenschiff-landingpage/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
