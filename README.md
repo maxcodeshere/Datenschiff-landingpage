@@ -37,11 +37,11 @@
     A README for the Datenschiff-Landingpage
     <br />
     <br />
-    <a href="https://github.com/maxcodeshere/Datenschiff.landingpage/pulls">Create Pull Request</a>
+    <a href="https://github.com/maxcodeshere/datenschiff-landingpage/pulls">Create Pull Request</a>
     ·
-    <a href="https://github.com/maxcodeshere/Datenschiff.landingpage/issues">Report Bug</a>
+    <a href="https://github.com/maxcodeshere/datenschiff-landingpage/issues">Report Bug</a>
     ·
-    <a href="https://github.com/maxcodeshere/Datenschiff.landingpage/issues">Request Feature</a>
+    <a href="https://github.com/maxcodeshere/datenschiff-landingpage/issues">Request Feature</a>
   </p>
 </p>
 
@@ -77,18 +77,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Datenschiff is a small single server selfhosting project by a friend of mine and me. 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+It started with a few simple thoughts:
+* Take back control over your everyday data with selfhosted alternatives
+* Deploy everything using Docker and learn how to use Docker along the way :wink:
+* Use GitHub to implement CI/CD for certain parts of the project :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+This repo represents the landingpage for the project from which you can easily find your way to all the services.
 
 ### Built With
 
@@ -107,19 +105,16 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is what you need to replicate this project.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-* bootstrap
-  ```sh
-  npm install bootstrap@next
-  ```
+This is what you need to replicate this page:
+* A running docker instance
+* Motivation :smile:
 
 ### Installation
 
-1. TODO
+1. Install [Docker Engine](https://docs.docker.com/engine/install/) or [Docker Desktop](https://docs.docker.com/desktop/)
+2.   ```sh
+  docker run -d -p 80:80 -p 443:443 datenschipper/datenschiff-landingpage
+  ```
 
 
 
@@ -162,9 +157,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Max - [maxtweetshere](https://twitter.com/maxtweetshere) - [@datenschipper:matrix.org](https://matrix.to/#/@datenschipper:matrix.org)
+Max - <i class="fab fa-twitter"></i>[maxtweetshere](https://twitter.com/maxtweetshere) - <i class="fas fa-hashtag"></i>[@datenschipper:matrix.org](https://matrix.to/#/@datenschipper:matrix.org) - <i class="fab fa-mastodon"></i>[@datenschipper@chaos.social](https://chaos.social/@datenschipper)
 
-Project Link: [https://github.com/maxcodeshere/Datenschiff.landingpage](https://github.com/maxcodeshere/Datenschiff.landingpage)
+Project Link: [https://github.com/maxcodeshere/datenschiff-landingpage](https://github.com/maxcodeshere/datenschiff-landingpage)
 
 
 
@@ -189,15 +184,15 @@ Project Link: [https://github.com/maxcodeshere/Datenschiff.landingpage](https://
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/maxcodeshere/Datenschiff.landingpage/graphs/contributors
+[contributors-url]: https://github.com/maxcodeshere/datenschiff-landingpage/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/maxcodeshere/Datenschiff.landingpage/network/members
+[forks-url]: https://github.com/maxcodeshere/datenschiff-landingpage/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/maxcodeshere/Datenschiff.landingpage/stargazers
+[stars-url]: https://github.com/maxcodeshere/datenschiff-landingpage/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/maxcodeshere/Datenschiff.landingpage/issues
+[issues-url]: https://github.com/maxcodeshere/datenschiff-landingpage/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/maxcodeshere/Datenschiff.landingpage/blob/master/LICENSE.txt
+[license-url]: https://github.com/maxcodeshere/datenschiff-landingpage/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
