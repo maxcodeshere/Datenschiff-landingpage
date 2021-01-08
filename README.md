@@ -15,11 +15,15 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+![Docker Pulls](https://img.shields.io/docker/pulls/datenschipper/datenschiff-landingpage?style=for-the-badge)
+![MicroBadger Size](https://img.shields.io/microbadger/image-size/datenschipper/datenschiff-landingpage?style=for-the-badge)
 [![Contributors][contributors-shield]][contributors-url]
+![GitHub pull requests](https://img.shields.io/github/issues-pr/maxcodeshere/datenschiff-landingpage?style=for-the-badge)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -95,6 +99,9 @@ This project was build with these major frameworks and platforms:
 * [Popper](https://popper.js.org/)
 * [Docker](https://www.docker.com/)
 
+Current build status: 
+
+![CI to Docker Hub](https://github.com/maxcodeshere/datenschiff-landingpage/workflows/CI%20to%20Docker%20Hub/badge.svg)
 
 
 <!-- GETTING STARTED -->
