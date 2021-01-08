@@ -162,7 +162,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Max - [maxtweetshere](https://twitter.com/maxtweetshere) - email@example.com
+Max - [maxtweetshere](https://twitter.com/maxtweetshere) - [@datenschipper:matrix.org](@datenschipper:matrix.org)
 
 Project Link: [https://github.com/maxcodeshere/Datenschiff.landingpage](https://github.com/maxcodeshere/Datenschiff.landingpage)
 
