@@ -155,7 +155,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Max - <i class="fab fa-twitter"></i>[maxtweetshere](https://twitter.com/maxtweetshere) - <i class="fas fa-hashtag"></i>[@datenschipper:matrix.org](https://matrix.to/#/@datenschipper:matrix.org) - <i class="fab fa-mastodon"></i>[@datenschipper@chaos.social](https://chaos.social/@datenschipper)
+Max - [maxtweetshere](https://twitter.com/maxtweetshere) - [@datenschipper:matrix.org](https://matrix.to/#/@datenschipper:matrix.org) - [@datenschipper@chaos.social](https://chaos.social/@datenschipper)
 
 Project Link: [https://github.com/maxcodeshere/datenschiff-landingpage](https://github.com/maxcodeshere/datenschiff-landingpage)
 
