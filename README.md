@@ -19,12 +19,8 @@
 ![MicroBadger Size](https://img.shields.io/microbadger/image-size/datenschipper/datenschiff-landingpage?style=for-the-badge)
 [![Contributors][contributors-shield]][contributors-url]
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/maxcodeshere/datenschiff-landingpage?style=for-the-badge)
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
-<!-- [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
