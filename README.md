@@ -16,7 +16,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 ![Docker Pulls](https://img.shields.io/docker/pulls/datenschipper/datenschiff-landingpage?style=for-the-badge)
-![MicroBadger Size](https://img.shields.io/microbadger/image-size/datenschipper/datenschiff-landingpage?style=for-the-badge)
+![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/datenschipper/datenschiff-landingpage)
 [![Contributors][contributors-shield]][contributors-url]
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/maxcodeshere/datenschiff-landingpage?style=for-the-badge)
 [![Issues][issues-shield]][issues-url]
