@@ -115,7 +115,7 @@ This is what you need to replicate this page:
 ### Installation
 
 1. Install [Docker Engine](https://docs.docker.com/engine/install/) or [Docker Desktop](https://docs.docker.com/desktop/)
-2. ```docker run -d -p 80:80 -p 443:443 datenschipper/datenschiff-landingpage ```
+2. ```docker run --name example-nginx -d -p 80:80 -p 443:443 datenschipper/datenschiff-landingpage ```
 
 
 
