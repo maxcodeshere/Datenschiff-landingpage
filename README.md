@@ -92,6 +92,7 @@ This repo represents the landingpage for the project from which you can easily f
 
 This project was build with these major frameworks and platforms:
 * [Bootstrap](https://getbootstrap.com)
+* [Angular](https://angular.io/)
 * [Popper](https://popper.js.org/)
 * [Docker](https://www.docker.com/)
 
